@@ -10,7 +10,7 @@ django-webpack-loader==1.8.1
 djangorestframework==3.15.1
 google-api-python-client==2.183.0
 gunicorn==22.0.0
-h2==4.1.0
+h2==4.3.0
 kombu==5.3.7
 lameenc==1.7.0
 nnabla==1.30.0
